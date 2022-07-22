@@ -25,7 +25,7 @@ The following is a list of steps and instructions on how to complete this guided
 ![Clone/Download](https://tk-assets.lambdaschool.com/054e5ad4-75cd-4b98-b929-7bf453bc8263_ScreenShot2020-04-13at7.31.05AM.png)
 
 - **Step 2️⃣:** CD into the repository and create a branch off of the main branch.
-  - 
+  - `cd rebasing`
   - Name the branch **"feature/add-my-name"** `git checkout -b feature/add-name`
   - **note**: this is a common naming convention. In labs you will often use the Jira issue number in your branch name.
   - Once the branch is created, you've been switched to the new branch.
