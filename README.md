@@ -20,11 +20,11 @@
 
 The following is a list of steps and instructions on how to complete this guided project.
 
-- **Step 1️⃣: ** Fork this repo into your personal account
+- **Step 1️⃣:** Fork this repo into your personal account
   - then clone this repository by clicking the green **Clone or Download** (or new **Code**) button in the top right.
 ![Clone/Download](https://tk-assets.lambdaschool.com/054e5ad4-75cd-4b98-b929-7bf453bc8263_ScreenShot2020-04-13at7.31.05AM.png)
 
-- **Step 2️⃣: ** CD into the repository and create a branch off of the main branch.
+- **Step 2️⃣:** CD into the repository and create a branch off of the main branch.
   - 
   - Name the branch **"feature/add-my-name"** `git checkout -b feature/add-name`
   - **note**: this is a common naming convention. In labs you will often use the Jira issue number in your branch name.
